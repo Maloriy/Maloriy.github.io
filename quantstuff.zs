@@ -5,7 +5,7 @@ recipes.addShaped(<super_solar_panels:machines:45> * 1,
 [null, <super_solar_panels:spectral_battery:26>, null]]);
 
 //ультимативный mfsu
-recipes.addShaped(<super_solar_panels:machines:46>\ * 1, 
+recipes.addShaped(<super_solar_panels:machines:46> * 1, 
 [[<super_solar_panels:spectral_battery:26>, <super_solar_panels:crafting:5>, <super_solar_panels:spectral_battery:26>],
 [<super_solar_panels:crafting:5>, <super_solar_panels:machines:45>, <super_solar_panels:crafting:5>], 
 [<super_solar_panels:spectral_battery:26>, <super_solar_panels:crafting:5>, <super_solar_panels:spectral_battery:26>]]);
