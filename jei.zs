@@ -46,13 +46,7 @@ mods.jei.JEI.removeAndHide(<super_solar_panels:machines:18>);
 mods.jei.JEI.removeAndHide(<super_solar_panels:machines:17>);
 mods.jei.JEI.removeAndHide(<super_solar_panels:machines:16>);
 //материя
-mods.jei.JEI.removeAndHide(<thermalexpansion:florb>);
-mods.jei.JEI.removeAndHide(<forge:bucketfilled>);
-mods.jei.JEI.removeAndHide(<ic2:fluid_cell>);
 mods.jei.JEI.removeAndHide(<ic2:uu_matter>);
-mods.jei.JEI.removeAndHide(<forestry:refractory:1>);
-mods.jei.JEI.removeAndHide(<forestry:capsule:1>);
-mods.jei.JEI.removeAndHide(<forestry:can:1>);
 //семена
 mods.jei.JEI.removeAndHide(<mysticalagriculture:fluix_seeds>);
 mods.jei.JEI.removeAndHide(<mysticalagriculture:certus_quartz_seeds>);

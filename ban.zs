@@ -98,13 +98,7 @@ recipes.remove(<super_solar_panels:machines:18>);
 recipes.remove(<super_solar_panels:machines:17>);
 recipes.remove(<super_solar_panels:machines:16>);
 //материя
-recipes.remove(<thermalexpansion:florb>);
-recipes.remove(<forge:bucketfilled>);
-recipes.remove(<ic2:fluid_cell>);
 recipes.remove(<ic2:uu_matter>);
-recipes.remove(<forestry:refractory:1>);
-recipes.remove(<forestry:capsule:1>);
-recipes.remove(<forestry:can:1>);
 //remove_ban
 recipes.remove(<ic2:te:82>);
 recipes.remove(<ic2:te:86>);
