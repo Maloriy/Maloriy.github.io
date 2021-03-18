@@ -1,4 +1,6 @@
 //quantstuff
+recipes.remove(<super_solar_panels:crafting:36>);
+recipes.remove(<super_solar_panels:crafting:42>);
 recipes.remove(<super_solar_panels:machines:45>);
 recipes.remove(<super_solar_panels:machines:46>);
 recipes.remove(<super_solar_panels:machines:47>);
