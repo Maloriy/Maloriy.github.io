@@ -21,7 +21,7 @@ recipes.remove(<super_solar_panels:spectralsaber:*>);
 recipes.remove(<super_solar_panels:quantumsaber:*>);
 recipes.remove(<ic2:nano_saber:*>);
 recipes.remove(<super_solar_panels:crafting:23>);
-recipes.remove(<<super_solar_panels:crafting:44>>);
+recipes.remove(<super_solar_panels:crafting:44>);
 //supersolars
 recipes.remove(<super_solar_panels:crafting:25>);
 recipes.remove(<super_solar_panels:crafting:22>);
