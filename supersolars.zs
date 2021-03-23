@@ -3,6 +3,7 @@ recipes.remove(<super_solar_panels:machines:11>);
 recipes.remove(<super_solar_panels:machines:7>);
 recipes.remove(<super_solar_panels:machines:8>);
 recipes.remove(<super_solar_panels:machines:9>);
+recipes.remove(<super_solar_panels:machines:10>);
 //протонная
 mods.avaritia.ExtremeCrafting.addShaped("Protonya", <super_solar_panels:machines:11>,
 [[null, null, null, null, null, null, null, null, null],
@@ -38,6 +39,11 @@ mods.avaritia.ExtremeCrafting.addShaped("Neitron", <super_solar_panels:machines:
 [null, null, null, null, null, null, null, null, null]]);
 
 
+//ген нейтрончастиц
+recipes.addShaped(<super_solar_panels:machines:10> *1,
+[[<super_solar_panels:crafting:44>,<super_solar_panels:crafting>,<super_solar_panels:crafting:44>],
+[<super_solar_panels:crafting>,<super_solar_panels:machines:25>,<super_solar_panels:crafting>],
+[<super_solar_panels:crafting:44>,<super_solar_panels:crafting>,<super_solar_panels:crafting:44>]]);
 
 //модуль генерация днем
 recipes.addShaped(<super_solar_panels:module1> * 1, 
