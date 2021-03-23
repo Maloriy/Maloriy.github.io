@@ -1,3 +1,7 @@
+//генератор булыги
+recipes.remove(<nuclearcraft:cobblestone_generator_dense>);
+recipes.remove(<nuclearcraft:cobblestone_generator_compact>);
+recipes.remove(<nuclearcraft:cobblestone_generator>);
 //quantstuff
 recipes.remove(<super_solar_panels:crafting:36>);
 recipes.remove(<super_solar_panels:crafting:42>);
@@ -166,3 +170,4 @@ recipes.remove(<binniecore:field_kit>);
 recipes.remove(<ic2:painter>);
 recipes.remove(<thermalfoundation:tome_lexicon>);
 recipes.remove(<industrialforegoing:laser_lens>);
+recipes.remove(<energycontrol:afb:26>);
