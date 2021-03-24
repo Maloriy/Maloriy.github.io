@@ -90,3 +90,7 @@ recipes.addShaped(<minecraft:ghast_tear> * 1,
 [[<super_solar_panels:crafting:27>, <super_solar_panels:crafting:23>, <super_solar_panels:crafting:27>],
 [<super_solar_panels:crafting:33>, <super_solar_panels:crafting:22>, <super_solar_panels:crafting:33>], 
 [<super_solar_panels:crafting:27>, <super_solar_panels:crafting:23>, <super_solar_panels:crafting:27>]]);
+
+//схемы
+recipes.addShaped(<super_solar_panels:crafting:44>, [[<maloriy:ch_32>, <ic2:crafting:4>, <maloriy:ch_32>],[<ic2:crafting:4>, <super_solar_panels:crafting:23>, <ic2:crafting:4>], [<maloriy:ch_32>, <ic2:crafting:4>, <maloriy:ch_32>]]);
+recipes.addShaped(<super_solar_panels:crafting:23>, [[null, <maloriy:ch_31>, null],[<maloriy:ch_31>, <ic2:crafting:2>, <maloriy:ch_31>], [null, <maloriy:ch_31>, null]]);
