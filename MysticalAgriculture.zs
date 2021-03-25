@@ -1,3 +1,4 @@
+//ban
 recipes.remove(<mysticalagriculture:fluix_seeds>);
 recipes.remove(<mysticalagriculture:certus_quartz_seeds>);
 recipes.remove(<mysticalagriculture:sky_stone_seeds>);

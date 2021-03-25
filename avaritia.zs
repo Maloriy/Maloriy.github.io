@@ -1,3 +1,4 @@
+//jei
 mods.jei.JEI.removeAndHide(<avaritia:infinity_hoe>);
 mods.jei.JEI.removeAndHide(<avaritia:infinity_axe>);
 mods.jei.JEI.removeAndHide(<avaritia:infinity_shovel>);
@@ -9,7 +10,7 @@ mods.jei.JEI.removeAndHide(<avaritia:infinity_helmet>);
 mods.jei.JEI.removeAndHide(<avaritia:infinity_chestplate>);
 mods.jei.JEI.removeAndHide(<avaritia:infinity_pants>);
 mods.jei.JEI.removeAndHide(<avaritia:infinity_boots>);
-
+//ban
 mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_hoe>);
 mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_axe>);
 mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_shovel>);

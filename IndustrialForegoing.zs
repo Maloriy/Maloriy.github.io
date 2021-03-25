@@ -1,12 +1,4 @@
-mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:11>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:10>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:9>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:8>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:7>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:6>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:5>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:enchantment_extractor>);
-mods.jei.JEI.removeAndHide(<industrialforegoing:enchantment_invoker>);
+//ban
 recipes.remove(<industrialforegoing:range_addon:11>);
 recipes.remove(<industrialforegoing:range_addon:10>);
 recipes.remove(<industrialforegoing:range_addon:9>);
