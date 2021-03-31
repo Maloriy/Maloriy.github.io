@@ -60,3 +60,8 @@ recipes.remove(<mysticalagriculture:iron_seeds>);
 recipes.remove(<mysticalagriculture:tier5_inferium_seeds>);
 recipes.remove(<mysticalagriculture:tier4_inferium_seeds>);
 recipes.remove(<mysticalagriculture:tier3_inferium_seeds>);
+recipes.remove(<mysticalagriculture:graphite_seeds>);
+recipes.remove(<mysticalagriculture:thorium_seeds>);
+recipes.remove(<mysticalagriculture:boron_seeds>);
+recipes.remove(<mysticalagriculture:lithium_seeds>);
+recipes.remove(<mysticalagriculture:magnesium_seeds>);

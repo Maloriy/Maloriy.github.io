@@ -110,6 +110,11 @@ mods.jei.JEI.removeAndHide(<mysticalagriculture:iron_seeds>);
 mods.jei.JEI.removeAndHide(<mysticalagriculture:tier5_inferium_seeds>);
 mods.jei.JEI.removeAndHide(<mysticalagriculture:tier4_inferium_seeds>);
 mods.jei.JEI.removeAndHide(<mysticalagriculture:tier3_inferium_seeds>);
+mods.jei.JEI.removeAndHide(<mysticalagriculture:graphite_seeds>);
+mods.jei.JEI.removeAndHide(<mysticalagriculture:thorium_seeds>);
+mods.jei.JEI.removeAndHide(<mysticalagriculture:boron_seeds>);
+mods.jei.JEI.removeAndHide(<mysticalagriculture:lithium_seeds>);
+mods.jei.JEI.removeAndHide(<mysticalagriculture:magnesium_seeds>);
 //industrialforegioing
 mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:11>);
 mods.jei.JEI.removeAndHide(<industrialforegoing:range_addon:10>);
