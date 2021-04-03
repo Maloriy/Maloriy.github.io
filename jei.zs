@@ -1,3 +1,4 @@
+mods.jei.JEI.removeAndHide(<twilightforest:uncrafting_table>);
 mods.jei.JEI.removeAndHide(<ic2:te:82>);
 mods.jei.JEI.removeAndHide(<enderio:block_enchanter>);
 mods.jei.JEI.removeAndHide(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 13 as short}]}));

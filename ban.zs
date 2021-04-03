@@ -1,3 +1,5 @@
+//разборверстак
+recipes.remove(<twilightforest:uncrafting_table>);
 //генератор булыги
 recipes.remove(<nuclearcraft:cobblestone_generator_dense>);
 recipes.remove(<nuclearcraft:cobblestone_generator_compact>);
