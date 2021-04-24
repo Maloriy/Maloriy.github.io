@@ -65,3 +65,17 @@ recipes.remove(<mysticalagriculture:thorium_seeds>);
 recipes.remove(<mysticalagriculture:boron_seeds>);
 recipes.remove(<mysticalagriculture:lithium_seeds>);
 recipes.remove(<mysticalagriculture:magnesium_seeds>);
+
+//эссенции
+//прудентиумная
+recipes.remove(<mysticalagriculture:crafting:1>);
+recipes.addShaped(<mysticalagriculture:crafting:1>, [[<mysticalagriculture:crafting>, <mysticalagriculture:crafting>, <mysticalagriculture:crafting>],[<mysticalagriculture:crafting>, <mysticalagriculture:infusion_crystal>, <mysticalagriculture:crafting>], [<mysticalagriculture:crafting>, <mysticalagriculture:crafting>, <mysticalagriculture:crafting>]]);
+//интермедиумная
+recipes.remove(<mysticalagriculture:crafting:2>);
+recipes.addShaped(<mysticalagriculture:crafting:2>, [[<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:1>],[<mysticalagriculture:crafting:1>, <mysticalagriculture:infusion_crystal>, <mysticalagriculture:crafting:1>], [<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:1>]]);
+//супериумная
+recipes.remove(<mysticalagriculture:crafting:3>);
+recipes.addShaped(<mysticalagriculture:crafting:3>, [[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:2>],[<mysticalagriculture:crafting:2>, <mysticalagriculture:infusion_crystal>, <mysticalagriculture:crafting:2>], [<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:2>]]);
+//супремиумная
+recipes.remove(<mysticalagriculture:crafting:4>);
+recipes.addShaped(<mysticalagriculture:crafting:4>, [[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>],[<mysticalagriculture:crafting:4>, <mysticalagriculture:infusion_crystal>, <mysticalagriculture:crafting:4>], [<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>]]);

@@ -8,7 +8,7 @@ recipes.remove(<super_solar_panels:machines:7>);
 recipes.remove(<super_solar_panels:machines:8>);
 recipes.remove(<super_solar_panels:machines:9>);
 recipes.remove(<super_solar_panels:machines:10>);
-//recipes.remove(<super_solar_panels:crafting:25>);
+recipes.remove(<super_solar_panels:crafting:25>);
 recipes.remove(<super_solar_panels:crafting:22>);
 recipes.remove(<super_solar_panels:crafting:13>);
 recipes.remove(<super_solar_panels:crafting:16>);
@@ -50,6 +50,9 @@ recipes.remove(<super_solar_panels:machines:17>);
 recipes.remove(<super_solar_panels:machines:16>);
 recipes.remove(<ic2:te:92>);
 recipes.remove(<super_solar_panels:machines:25>);
+//пятая солярка
+recipes.remove(<super_solar_panels:machines:5>);
+recipes.addShaped(<super_solar_panels:machines:5>, [[<super_solar_panels:machines:4>, <super_solar_panels:machines:4>, <super_solar_panels:machines:4>],[<super_solar_panels:machines:4>, <super_solar_panels:crafting:22>, <super_solar_panels:machines:4>], [<super_solar_panels:machines:4>, <super_solar_panels:machines:4>, <super_solar_panels:machines:4>]]);
 //matter
 recipes.addShaped(<super_solar_panels:machines:25>, [[<thermalfoundation:material:295>, <ic2:crafting:2>, <thermalfoundation:material:295>],[<super_solar_panels:crafting:8>, <ic2:te:92>, <super_solar_panels:crafting:8>], [<thermalfoundation:material:295>, <ic2:crafting:2>, <thermalfoundation:material:295>]]);
 recipes.addShaped(<ic2:te:92>, [[<ic2:resource:13>, <ic2:nuclear:3>, <ic2:resource:13>],[<ic2:nuclear:3>, <minecraft:nether_star>, <ic2:nuclear:3>], [<ic2:resource:13>, <ic2:nuclear:3>, <ic2:resource:13>]]);
