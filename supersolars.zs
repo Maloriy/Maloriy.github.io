@@ -8,7 +8,7 @@ recipes.remove(<super_solar_panels:machines:7>);
 recipes.remove(<super_solar_panels:machines:8>);
 recipes.remove(<super_solar_panels:machines:9>);
 recipes.remove(<super_solar_panels:machines:10>);
-recipes.remove(<super_solar_panels:crafting:25>);
+//recipes.remove(<super_solar_panels:crafting:25>);
 recipes.remove(<super_solar_panels:crafting:22>);
 recipes.remove(<super_solar_panels:crafting:13>);
 recipes.remove(<super_solar_panels:crafting:16>);
