@@ -132,3 +132,5 @@ recipes.remove(<ic2:painter>);
 recipes.remove(<thermalfoundation:tome_lexicon>);
 recipes.remove(<industrialforegoing:laser_lens>);
 recipes.remove(<energycontrol:afb:26>);
+//ВАНИЛА
+recipes.remove(<minecraft:dispenser>);

@@ -223,3 +223,5 @@ mods.jei.JEI.removeAndHide(<forestry:crated.forestry.mulch.0>);
 mods.jei.JEI.removeAndHide(<forestry:crated.forestry.fertilizer_compound.0>);
 mods.jei.JEI.removeAndHide(<forestry:crated.forestry.apatite.0>);
 mods.jei.JEI.removeAndHide(<forestry:crated.forestry.peat.0>);
+//ВАНИЛА
+mods.jei.JEI.removeAndHide(<minecraft:dispenser>);
